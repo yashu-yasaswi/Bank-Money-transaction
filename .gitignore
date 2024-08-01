@@ -1,0 +1,9 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore the transaction log file
+transaction.txt
+
+# Ignore virtual environment directory
+venv/
