@@ -34,3 +34,9 @@ withdrew :			89.0			 balance:			10893.0
 withdrew :			678.0			 balance:			10215.0
 deposited :			2789.0			 balance:			13004.0
 deposited :			56.0			 balance:			56.0
+deposited :			345.0			 balance:			345.0
+deposited :			345.0			 balance:			345.0
+withdrew :			300.0			 balance:			45.0
+deposited :			456.0			 balance:			456.0
+deposited :			678.0			 balance:			678.0
+deposited :			457.0			 balance:			457.0
